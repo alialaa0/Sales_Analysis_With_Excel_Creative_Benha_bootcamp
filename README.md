@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Sales Dashboard (Excel Power Query & Power Pivot)
+# 🛍️  Sales Dashboard (Excel Power Query & Power Pivot)
 
 This project showcases a comprehensive **Sales Analytics Dashboard** created in **Microsoft Excel** using **Power Query**, **Power Pivot**, and **DAX**.  
 It provides actionable insights into **Sales**, **Returns**, **Customer Ratings**, and **Profit** across different branches, cities, and customer segments.
@@ -45,3 +45,4 @@ The model combines three main tables:
 - **Reps Table** — links `rep_id` to representative names.  
 
 **Relationships:**
+
